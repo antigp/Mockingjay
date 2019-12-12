@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
   spec.name = 'Mockingjay'
   spec.version = '3.0.0-alpha.1'
   spec.summary = 'An elegant library for stubbing HTTP requests with ease in Swift.'
-  spec.homepage = 'https://github.com/kylef/Mockingjay'
+  spec.homepage = 'https://github.com/antigp/Mockingjay'
   spec.license = { :type => 'BSD', :file => 'LICENSE' }
   spec.author = { 'Kyle Fuller' => 'kyle@fuller.li' }
   spec.social_media_url = 'http://twitter.com/kylefuller'
